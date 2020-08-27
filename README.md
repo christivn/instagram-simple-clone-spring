@@ -6,6 +6,6 @@ Clon simple de instagram hecho en java spring (Funcionalidades CRUD)
 ![web](https://i.ibb.co/bRH9zvz/Screenshot-3.png)
 
 ## Perfiles
-![web](https://i.ibb.co/dGw9wct/Screenshot-4.png)
+![web](https://i.ibb.co/MVfSLGR/Screenshot-4.png)
 ![web](https://i.ibb.co/wJBKhPv/Screenshot-6.png)
 ![web](https://i.ibb.co/pnVFKwW/Screenshot-5.png)
